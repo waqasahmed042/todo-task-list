@@ -18,9 +18,13 @@ Check out the live demo of the website: [Todo Task List](https://waqasahmed042.g
 - Essential Features for Task Management/
 
    ✅ **Add Tasks Instantly** – Quickly add new tasks with a single click.
+
    ✅ **Mark Tasks as Completed** – Easily check off completed tasks with a satisfying UI effect.
+
    ✅ **Delete Tasks** – Remove unwanted tasks effortlessly.
+
    ✅ **Responsive Design** – Works seamlessly across mobile, tablet, and desktop.
+   
    ✅ **Minimal & Clean UI** – A distraction-free interface for better focus.
 
    Would you like additional features like task categories, due dates, or reminders? 🚀
